@@ -43,7 +43,7 @@ int main() {
     std::cout << name << "\n";
 
     //string literal
-    std::cout<< "Hello. " << diary << ". My age is "<< age;
+    std::cout << "Hello. " << diary << ". My age is "<< age;
 
     return 0;
 
